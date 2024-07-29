@@ -1,5 +1,8 @@
 ## Meta-RenovRetail
 
+Organização a fim de controlar a parceria da Meta com a RenovRetail para implementação do PDV voltado para rede de mercados.
+Como primeiro cliente iremos ter o Muffato.
+
 <!--
 
 **Here are some ideas to get you started:**
