@@ -8,6 +8,7 @@ Neste projeto todas as funcionalidades DEVEM ser implementadas com testes unitá
 
 Links:
 Arquitetura basica:
+
 https://app.diagrams.net/#G1_UJAXK9GnYzu6XPLgmxRLuRr4x-lwEV9#%7B%22pageId%22%3A%22h7jbwS5HvdEID7JaKOO_%22%7D
 
 <!--
